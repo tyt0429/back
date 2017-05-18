@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shape.mp3</file>
+        <file>closer.mp3</file>
+        <file>../sounds/closer.mp3</file>
+        <file>../sounds/shape.mp3</file>
+    </qresource>
+</RCC>
